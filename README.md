@@ -1,2 +1,2 @@
-# Python-Studies
-I collect my Python works here.
+# assignments
+I will add my assignments here
